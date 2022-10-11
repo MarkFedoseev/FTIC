@@ -1,0 +1,10 @@
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.Form1.resources
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.Properties.Resources.resources
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.csproj.GenerateResource.Cache
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\FTIC\FTIC\bin\Debug\FTIC.exe.config
+C:\Users\Mark\source\repos\FTIC\FTIC\bin\Debug\FTIC.exe
+C:\Users\Mark\source\repos\FTIC\FTIC\bin\Debug\FTIC.pdb
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.exe
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.pdb
+C:\Users\Mark\source\repos\FTIC\FTIC\obj\Debug\FTIC.csprojAssemblyReference.cache
